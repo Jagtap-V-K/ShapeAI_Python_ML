@@ -1,6 +1,5 @@
 # DevTown PYTHON AND MACHINE LEARNING BOOTCAMP
-Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> DevTown
-</b>.
+Hi I made this project during the 7 Days Free Bootcamp, conducted by DevTown.<br>
 The instructor during the session was Mr. Shaurya Sinha (Co-Founder at DevTown). I got to
 learn a lot during these 7 days and it was an amazing experience learning with DevTown.
 <br><br>Here's the link for you to watch the sessions as well<br>
